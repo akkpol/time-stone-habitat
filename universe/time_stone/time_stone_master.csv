@@ -1,0 +1,8 @@
+ts_id,dimension,metric,value,unit,stability,note
+TS-0001,time,focus_window,2,hours/day,high,โฟกัสจริงต่อวันบนมือถือ
+TS-0002,time,context_switch_cost,high,qualitative,high,สลับงานแล้วหลุดโฟกัสง่าย
+TS-0003,money,monthly_ai_budget,2000,THB/month,medium,งบที่ยอมรับได้ไม่กดดัน
+TS-0004,money,runway_visibility,3,months,medium,ต้องเห็นผลใน 3 เดือน
+TS-0005,knowledge,primary_domain,AI systems + Product thinking,tag,high,แกนจักรวาล measuring everything
+TS-0006,tool,evidence_gate,NotebookLM,tool,high,หลักฐานต้องมี citation
+TS-0007,identity,decision_authority,Akkapol,person,high,ตัดสินใจขั้นสุดท้าย
